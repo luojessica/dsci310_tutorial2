@@ -1,5 +1,7 @@
 # dsci310_tutorial2
 
+- `git add`: code to add a file to the staging area
+- `git commit`: creates a commit, or snapshoht, of the changes in the staging area
 - `git branch`: prints the available branches
 - `git switch`: switches to a specified branch
 - `git log --oneline --graph --all`: visualize the commit history in a condensed and graphical format
