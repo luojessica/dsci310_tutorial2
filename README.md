@@ -1,5 +1,8 @@
 # dsci310_tutorial2
 
+
+- `git pull ...`: uploads changes from local Git repository to a remote repository (e.g., GitHub)
+- `git push`: downloads changes from remote repository and merge them into your local repository
 - `git add`: code to add a file to the staging area
 - `git commit`: creates a commit, or snapshoht, of the changes in the staging area
 - `git branch`: prints the available branches
